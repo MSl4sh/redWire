@@ -1,0 +1,23 @@
+{
+  "name": "redwire",
+  "version": "1.0.0",
+  "description": "Projet fil rouge if3 fulls stack gestion de tâches",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MSl4sh/redWire.git"
+  },
+  "author": "Duperrois Donovan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MSl4sh/redWire/issues"
+  },
+  "homepage": "https://github.com/MSl4sh/redWire#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
